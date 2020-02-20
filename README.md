@@ -1,5 +1,7 @@
 # COMP6521_LA1
 
+#### First of all， I want to  thank my teammate Wu Jiaqi, he has contributed a great deal to this project.
+
 ### config
 1. language: java
 2. algorithm: TPMMS

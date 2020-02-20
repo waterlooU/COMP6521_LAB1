@@ -1,6 +1,6 @@
 # COMP6521_LA1
 
-#### Firstly, I want to thank my teammate Wu Jiaqi,He made a great contribution to this project.
+#### First of all， I want to  thank my teammate Wu Jiaqi, he has contributed a great deal to this project.
 
 ### config
 1. language: java
